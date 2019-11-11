@@ -5,3 +5,4 @@ RMIT traditional algorithm assignment
 Based on given base code
 
 # Run in terminal
+See each specification
